@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 50%;
+}
+.cor_fundo {
+    background-color: yellow;
+}
+.cor_fundo-2 {
+    background-color: rgb(68, 0, 255);
+}
+.largura {
+    width: 300px;
+}
